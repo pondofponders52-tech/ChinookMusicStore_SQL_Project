@@ -1,3 +1,5 @@
+https://github.com/pondofponders52-tech/ChinookMusicStore_SQL_Project/blob/b5e55250d2c33b6573a7e2c5d3cae915550e6751/SQL%20Chinook%20Music%20Store%20ppt.png
+
 # ChinookMusicStore_SQL_Project
 SQL analysis of the Chinook Music Store database to extract sales and customer insights.
 
