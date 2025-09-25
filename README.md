@@ -1,4 +1,4 @@
-![Uploading image.png…]()
+![Uploading image.png…](https://github.com/pondofponders52-tech/ChinookMusicStore_SQL_Project/blob/7311ce74613b462214b46c549f8d4bbe10569709/SQL%20Chinook%20Music%20Store%20ppt.png)
 
 
 # ChinookMusicStore_SQL_Project
